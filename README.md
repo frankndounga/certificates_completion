@@ -33,6 +33,8 @@ all my certificates of completion
 - Découpez et intégrez une maquette: [voir le certificat](https://openclassrooms.com/course-certificates/6362660461)
 - Apprenez à coder avec Javascript: [voir le certificat](https://openclassrooms.com/course-certificates/2032210898)
 - Débutez avec le Framework Django: [voir le certificat](https://openclassrooms.com/course-certificates/1261460307)
+- Apprenez la programmation orientée objet avec Python: [voir le certificat](https://openclassrooms.com/fr/course-certificates/7096489530)
+- Utilisez ansible pour automatiser vos tâches: [voir le certificat](https://openclassrooms.com/fr/course-certificates/4044388679)
 
 
 
