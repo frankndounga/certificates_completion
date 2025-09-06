@@ -40,6 +40,7 @@ all my certificates of completion
 - Allez plus loin avec le Framework Django: [voir le certificat](https://openclassrooms.com/fr/course-certificates/2359193715)
 - Ecrivez du code python maintenable: [voir le certificat](https://openclassrooms.com/fr/course-certificates/8295058220)
 - Déployer une application Django: [voir le certificat](https://openclassrooms.com/fr/course-certificates/8179696899)
+- Découvrez le fonctionnement des algorithmes: [voir le certificat](https://openclassrooms.com/fr/course-certificates/3369940976)
 
 
 
